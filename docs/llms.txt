@@ -1,0 +1,28 @@
+# Saleh Al Dakheel (صالح الدخيل)
+
+> Projects Manager in the Enterprise Project Management Office (EPMO) of Saudi Arabia's Ministry of Human Resources and Social Development (HRSD), Riyadh, since July 2026. Leads 18 active projects and oversees the enablement of 82 in the Sakhaa Program. PMP (Sep 2025) and PMI-PMOCP (May 2026). Previously Assistant Consultant and Consultant at Align Consulting (Dammam) and corrosion engineering trainee at Saudi Aramco. BSc Chemical Engineering, KFUPM (2018–2024).
+
+Arabic name: صالح الدخيل. Other spellings: Saleh Al-Dakheel, Saleh Aldakheel, Saleh H. Aldakheel.
+
+## Pages (Arabic, default)
+- [الرئيسية](https://nouraldeentofi.github.io/saleh-al-dakheel/): صالح الدخيل، مدير مشاريع في مكتب إدارة المشاريع المؤسسي بوزارة الموارد البشرية والتنمية الاجتماعية في الرياض. يقود 18 مشروعًا نشطًا في برنامج سخاء. PMP وPMI-PMOCP، ومهندس كيميائي من جامعة الملك فهد للبترول والمعادن.
+- [المسيرة](https://nouraldeentofi.github.io/saleh-al-dakheel/career.html): مسيرة صالح الدخيل: متدرب مهندس تآكل في أرامكو السعودية 2023، ثم مساعد مستشار ومستشار في Align Consulting بالدمام، ثم مدير مشاريع في EPMO بوزارة الموارد البشرية والتنمية الاجتماعية منذ يوليو 2026.
+- [الاستشارات](https://nouraldeentofi.github.io/saleh-al-dakheel/consulting.html): عمل صالح الدخيل في Align Consulting: أكثر من 7 مشاريع وأكثر من 40 مبادرة استراتيجية، وMarketing PMO لأربع جهات، واستراتيجية تسويق لـ National Centre for Palms and Dates.
+- [المنهج](https://nouraldeentofi.github.io/saleh-al-dakheel/approach.html): كيف يعمل صالح الدخيل: الفرق بين الملكية والتدخّل ومصفوفة RACI، وأربع قيم: التفكير الاستراتيجي، والملكية، والتميّز والاحترافية، والتكيّف.
+- [الشهادات](https://nouraldeentofi.github.io/saleh-al-dakheel/credentials.html): شهادات صالح الدخيل: PMI-PMOCP (مايو 2026)، وPMP (سبتمبر 2025)، واعتماد مهني من الهيئة السعودية للمهندسين، وMcKinsey Forward، وSix Sigma Yellow Belt، وبكالوريوس الهندسة الكيميائية من جامعة الملك فهد للبترول والمعادن.
+- [تواصل](https://nouraldeentofi.github.io/saleh-al-dakheel/contact.html): تواصل مع صالح الدخيل بالبريد أو عبر لينكدإن. الرياض، المملكة العربية السعودية.
+
+## Pages (English)
+- [Home](https://nouraldeentofi.github.io/saleh-al-dakheel/en/): Saleh Al Dakheel, Projects Manager at the EPMO of Saudi Arabia's Ministry of Human Resources and Social Development in Riyadh. Leads 18 active projects in the Sakhaa Program. PMP and PMI-PMOCP; chemical engineer from KFUPM.
+- [Career](https://nouraldeentofi.github.io/saleh-al-dakheel/en/career.html): Saleh Al Dakheel's career: corrosion engineering trainee at Saudi Aramco (2023), Assistant Consultant then Consultant at Align Consulting in Dammam, and Projects Manager in the EPMO of HRSD since July 2026.
+- [Consulting](https://nouraldeentofi.github.io/saleh-al-dakheel/en/consulting.html): Saleh Al Dakheel's work at Align Consulting: 7+ projects, 40+ strategic initiatives, a Marketing PMO for four clients and a marketing strategy for the National Centre for Palms and Dates.
+- [Approach](https://nouraldeentofi.github.io/saleh-al-dakheel/en/approach.html): How Saleh Al Dakheel works: ownership versus interference and the RACI matrix, and four values: strategic thinking, ownership, excellence and professionalism, adaptability.
+- [Credentials](https://nouraldeentofi.github.io/saleh-al-dakheel/en/credentials.html): Saleh Al Dakheel's credentials: PMI-PMOCP (May 2026), PMP (Sep 2025), Saudi Council of Engineers professional accreditation, McKinsey Forward, Six Sigma Yellow Belt, and a BSc in Chemical Engineering from KFUPM.
+- [Contact](https://nouraldeentofi.github.io/saleh-al-dakheel/en/contact.html): Contact Saleh Al Dakheel by email or on LinkedIn. Riyadh, Saudi Arabia.
+
+## Contact
+- Email: Saleh.h.aldakheel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saleh-al-dakheel/
+
+## Optional
+- [Full text of the site](https://nouraldeentofi.github.io/saleh-al-dakheel/llms-full.txt)

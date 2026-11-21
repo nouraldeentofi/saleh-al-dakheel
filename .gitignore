@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tests/shots/
+tests/report.json
+site/
+.DS_Store
